@@ -11,7 +11,11 @@ public class ClientDetails extends CompanyDetails{
 		c.companyName();
 		c.companyId();
 		c.empAge();
+<<<<<<< HEAD
 		System.out.println("for conflict");
+=======
+		System.out.println("for GIT");
+>>>>>>> aeb7234bffa7f8ead0b3a48318dd63325ea28612
 	
 	}
 }
